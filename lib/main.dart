@@ -10,7 +10,7 @@ import './waytopay.dart';
 import './bikebrand.dart';
 import './scooterbrand.dart';
 
-void main() {
+void maigit n() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     initialRoute: 'firstpage',
